@@ -30,6 +30,10 @@ On your local machine, open the terminal and navigate to the directory you want 
 2. git commit -m "your-commit-message"
 3. git push origin main
 
+To sync changes from remote repository:
+
+1. git pull origin main
+
 ### Unstage changes
 
 1. git restore --staged file-name
