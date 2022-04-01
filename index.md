@@ -37,3 +37,5 @@ To sync changes from remote repository:
 ### Unstage changes
 
 1. git restore --staged file-name
+
+Note: Remember to add .gitignore!
