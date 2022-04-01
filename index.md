@@ -14,7 +14,7 @@ The cloned repository on your local machine can sync with the remote repository.
 
 Create a new empty repository on Github.
 
-On your local machine, open the terminal and navigate to the directory you want to upload on Github.
+On your local machine, open the terminal and navigate to the directory you want to upload to Github.
 
 1. echo "# Starting-with-Git-and-Github" >> README.md (create README.md file)
 2. git init (initialize Git on the directory)
