@@ -1,4 +1,4 @@
-﻿# Starting-with-Git-and-Github
+﻿# [Getting-started-with-git-and-github](https://github.com/jarencecasisirano/Getting-started-with-git-and-github)
 
 Notes on using Git and Github for version control.
 
