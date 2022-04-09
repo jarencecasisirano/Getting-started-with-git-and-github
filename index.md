@@ -1,4 +1,4 @@
-# Starting-with-Git-and-Github
+# Getting-Started-with-Git-and-Github
 
 ## Cloning a new repository on github
 
